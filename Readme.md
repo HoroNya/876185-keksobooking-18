@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий](https://up.htmlacademy.ru/javascript/18/user/876185).
-* Наставник: `Неизвестно`.
+* Наставник: Сергей Бахтин.
 
 ---
 
